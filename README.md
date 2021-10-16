@@ -1,4 +1,4 @@
-### OOi, me chamo Marcello 👋
+### Oi, me chamo Marcello 👋
 
 <div align="center">
   <a href="https://github.com/MarcelloFarias">
