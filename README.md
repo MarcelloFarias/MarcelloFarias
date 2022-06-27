@@ -1,5 +1,5 @@
 ## Oi, me chamo Marcello 👋
-### Estou cursando Análise e desenvolvimento de sistemas, e aspiro atuar como desenvolvedor Front-end 👾
+### Atualmente estou cursando Análise e desenvolvimento de sistemas, e aspiro atuar como desenvolvedor Front-end 👾, busco a cada dia ampliar meus conhecimentos, tanto técnicos quanto intra e interpessoais 
 
 <div align="center">
   <a href="https://github.com/MarcelloFarias">
