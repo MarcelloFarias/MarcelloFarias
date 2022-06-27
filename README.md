@@ -1,4 +1,5 @@
 ## Oi, me chamo Marcello 👋
+### Estou cursando Análise e desenvolvimento de sistemas, e aspiro atuar como desenvolvedor Front-end 👾
 
 <div align="center">
   <a href="https://github.com/MarcelloFarias">
