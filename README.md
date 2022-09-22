@@ -1,4 +1,4 @@
-## Olá Mundo !, me chamo Marcello 👋
+## Olá Mundo ! Me chamo Marcello 👋
 ### Atualmente estou cursando Análise e desenvolvimento de sistemas, e aspiro atuar como desenvolvedor Front-end 👾
 
 <div align="center" style="display: inline_block">
