@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFarias&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
   
-<div width="100%">
+<div width="80%">
   <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=MarcelloFarias&theme=dracula&hide_border=true&area=true"
 </div>
  
