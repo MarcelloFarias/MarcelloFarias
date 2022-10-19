@@ -1,6 +1,7 @@
 ## Olá Mundo ! Me chamo Marcello 👋
 ### Atualmente estou cursando Análise e desenvolvimento de sistemas, e aspiro atuar como desenvolvedor Front-end 👾
 
+<br>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/MarcelloFarias">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MarcelloFarias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -9,7 +10,7 @@
 </div><br>
   
 <div align="center">
-  <img width="65%" src="https://activity-graph.herokuapp.com/graph?username=MarcelloFarias&theme=dracula&hide_border=true&area=true"
+  <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=MarcelloFarias&theme=dracula&hide_border=true&area=true"
 </div>
  
 <div align="center" style="display: inline_block"><br>
