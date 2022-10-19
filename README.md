@@ -9,7 +9,7 @@
 </div><br>
   
 <div align="center">
-  <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=MarcelloFarias&theme=dracula&hide_border=true&area=true"
+  <img width="6%5" src="https://activity-graph.herokuapp.com/graph?username=MarcelloFarias&theme=dracula&hide_border=true&area=true"
 </div>
  
 <div style="display: inline_block"><br>
