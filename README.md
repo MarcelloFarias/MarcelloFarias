@@ -7,7 +7,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFarias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div>
+<div style="margin-left: 50%">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelloFarias&&theme=dracula" alt="MarcelloFarias" /></p>
 </div>
  
