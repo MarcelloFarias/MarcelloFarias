@@ -5,10 +5,7 @@
   <a href="https://github.com/MarcelloFarias">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcelloFarias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFarias&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<div style="margin-left: 50%">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelloFarias&&theme=dracula" alt="MarcelloFarias" /></p>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelloFarias&&theme=dracula" alt="MarcelloFarias" />
 </div>
  
 <div style="display: inline_block"><br>
