@@ -8,10 +8,6 @@
   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelloFarias&&theme=dracula" alt="MarcelloFarias" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFarias&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
-  
-<div align="center">
-  <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=MarcelloFarias&theme=dracula&hide_border=true&area=true"/>
-</div>
  
  ## Stack:
  
