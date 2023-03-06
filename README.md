@@ -5,6 +5,7 @@
 <div align="center" style="display: inline_block">
   <a href="https://github.com/MarcelloFarias">
   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelloFarias&&theme=dracula" alt="MarcelloFarias" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFarias&yheme=dracula" />
 </div><br>
  
  ## Main Skills:
