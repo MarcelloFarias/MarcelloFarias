@@ -16,6 +16,7 @@
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcello-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt='Marcello-Bootstrap' height="40" width="40">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt='Marcello-Git' height="40" width="50">
 </div>
 
 ## Contact:
