@@ -3,8 +3,8 @@
 <br>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/MarcelloFarias">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFarias&layout=compact&langs_count=7&theme=radical"/>
-  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelloFarias&&theme=radical" alt="MarcelloFarias" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFarias&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelloFarias&&theme=radical" alt="MarcelloFarias" />
 </div><br>
  
  ## Main Skills:
