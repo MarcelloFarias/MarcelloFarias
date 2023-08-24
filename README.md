@@ -9,7 +9,7 @@
   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelloFarias&&theme=radical" alt="MarcelloFarias" />
 </div><br>
  
- ## <p>📚</p> Skills / Habilidades:
+ ## 📚 Skills / Habilidades:
  
 <div align="left" style="display: inline_block"><br>
   <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
