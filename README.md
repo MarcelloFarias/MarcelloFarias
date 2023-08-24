@@ -1,5 +1,7 @@
 ## Olá Mundo ! Me chamo Marcello 👋
 
+### Currently learning / Atualmente aprendendo: Sass, spring boot 
+
 <br>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/MarcelloFarias">
@@ -7,7 +9,7 @@
   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelloFarias&&theme=radical" alt="MarcelloFarias" />
 </div><br>
  
- ## Skills:
+ ## Skills / Habilidades:
  
 <div align="left" style="display: inline_block"><br>
   <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,7 +23,7 @@
   <img align='center' src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt='Marcello-TS' height='40' width='50'>
 </div>
   
-## Contact:
+## Contact / Contato:
 
   <div align="left"><br>
     <a href="https://www.linkedin.com/in/marcello-rocha-381572231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
