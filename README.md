@@ -5,7 +5,7 @@
 <br>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/MarcelloFarias">
-  <img height="130em" width="100vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFarias&layout=donut&langs_count=7&theme=radical"/>
+  <img height="130em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFarias&layout=donut&langs_count=7&theme=radical"/>
   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelloFarias&&theme=radical" alt="MarcelloFarias" />
 </div><br>
  
