@@ -1,7 +1,5 @@
 ## Olá Mundo ! Me chamo Marcello 👋
 
-### 🎯 Currently learning / Atualmente aprendendo: Sass, spring boot 
-
 <br>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/MarcelloFarias">
