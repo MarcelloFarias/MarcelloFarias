@@ -16,12 +16,11 @@
   <img align='center' src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt='Marcello-TS' height='40' width='50'>
   <img align="center" alt="Marcello-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt='Marcello-Bootstrap' height="40" width="40">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt='Marcello-Tailwind' height="40" width="40">
   <img align='center' src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg' alt='Marcello-TS' height='40' width='50'>
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt='Marcello-Git' height="40" width="50">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt='Marcello-MySql' height="40" width="50">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt='Marcello-Node' height="40" width="50">
-  <img align='center' src='https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg' alt='Marcello-TS' height='40' width='50'>
-  <img align='center' src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' alt='Marcello-TS' height='40' width='50'>
 </div>
 <br>
 <br>
