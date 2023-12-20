@@ -1,10 +1,10 @@
-## Olá Mundo ! Me chamo Marcello 👋
+# Olá Mundo ! Me chamo Marcello 👋
 
 <br>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/MarcelloFarias">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFarias&layout=compact&langs_count=7&theme=radical"/>
-  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelloFarias&&theme=radical" alt="MarcelloFarias" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFarias&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelloFarias&&theme=gotham" alt="MarcelloFarias" />
 </div><br>
  
  ## 📚 Skills / Habilidades:
