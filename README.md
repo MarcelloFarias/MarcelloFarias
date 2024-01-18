@@ -7,7 +7,7 @@ I currently work as a junior developer, focusing on front-end. I really like lea
 
  ### Skills
  
-<div align="left" style="display: inline_block"><br>
+<div align="left" style="display: inline_block">
   <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,7 +24,7 @@ I currently work as a junior developer, focusing on front-end. I really like lea
 
 ### 📧 Socials
 
-  <div align="left"><br>
+  <div align="left">
     <a href="https://www.github.com/MarcelloFarias" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/dev.cello" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/marcello-rocha-381572231/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
   </div>
 <br>
@@ -33,3 +33,8 @@ I currently work as a junior developer, focusing on front-end. I really like lea
  <a href="https://github-readme-stats.vercel.app/api?username=MarcelloFarias&theme=blueberry&show_icons=true&hide_border=true&count_private=true"></a>
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=MarcelloFarias&theme=blueberry&hide_border=true"></a>
 </div>
+
+![MarcelloFarias's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFarias&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+<br>
+![MarcelloFarias's Stats](https://github-readme-stats.vercel.app/api?username=MarcelloFarias&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![MarcelloFarias's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcelloFarias&theme=blueberry&hide_border=true)
