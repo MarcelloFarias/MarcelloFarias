@@ -3,7 +3,7 @@
 <br>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/MarcelloFarias">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFarias&layout=compact&langs_count=7&theme=bluebarry"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFarias&layout=compact&langs_count=7&theme=blueberry"/>
 </div><br>
  
  ## 📚 Skills / Habilidades:
