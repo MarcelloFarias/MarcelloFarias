@@ -33,6 +33,7 @@ I currently work as a junior developer, focusing on front-end. I really like lea
  <a href="https://github-readme-stats.vercel.app/api?username=MarcelloFarias&theme=blueberry&show_icons=true&hide_border=true&count_private=true"></a>
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=MarcelloFarias&theme=blueberry&hide_border=true"></a>
 </div>
+<br>
 
 ![MarcelloFarias's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFarias&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 <br>
