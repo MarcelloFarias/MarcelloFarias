@@ -3,7 +3,7 @@
 <br>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/MarcelloFarias">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFarias&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFarias&layout=compact&langs_count=7&theme=bluebarry"/>
 </div><br>
  
  ## 📚 Skills / Habilidades:
@@ -28,5 +28,5 @@
 
   <div align="left"><br>
     <a href="https://www.linkedin.com/in/marcello-rocha-381572231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/cello.farias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/dev.cello" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
