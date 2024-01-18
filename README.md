@@ -3,7 +3,7 @@
 I currently work as a junior developer, focusing on front-end. I really like learning new things.
 
 * 🌎 Brazil
-* You can contact me at [marcellorocha632@gmail.com](mailto: marcellorocha632@gmail.com)
+* You can contact me at marcellorocha632@gmail.com
 
  ### Skills
  
