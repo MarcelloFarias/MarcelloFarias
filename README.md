@@ -30,6 +30,6 @@ I currently work as a junior developer, focusing on front-end. I really like lea
 <br>
 
 <div align="center">
- ![MarcelloFarias's Stats](https://github-readme-stats.vercel.app/api?username=MarcelloFarias&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
- ![MarcelloFarias's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcelloFarias&theme=blueberry&hide_border=true)
+ <a href="https://github-readme-stats.vercel.app/api?username=MarcelloFarias&theme=blueberry&show_icons=true&hide_border=true&count_private=true"></a>
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=MarcelloFarias&theme=blueberry&hide_border=true"></a>
 </div>
