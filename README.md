@@ -4,6 +4,7 @@ I currently work as a junior developer, focusing on front-end. I really like lea
 
 * 🌎 Brazil
 * ✉️ You can contact me at marcellorocha632@gmail.com
+<br>
 
  ### Skills
  
